@@ -1,4 +1,5 @@
 Project Description
+
 Welcome to the Mini Excel project! This is a simplified spreadsheet application implemented in C++ as part of a Data Structures and Algorithms (DSA) course. The project demonstrates the practical application of fundamental DSA concepts in building a functional mini Excel-like software.
 
 Features
